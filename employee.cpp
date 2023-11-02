@@ -57,6 +57,7 @@ int main () {
     FullTimeEmployee Joseph("Joseph Mase", "NUN-000000001", 300.00);
     Joseph.getInfo();
 
+    //My name and id-number
     PartTimeEmployee Akpan("Akpan Torobong", "NUN-211203025", 8 , 15.00);
     Akpan.getInfo();
 }
